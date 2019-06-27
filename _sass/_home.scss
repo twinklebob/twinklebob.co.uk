@@ -1,0 +1,42 @@
+$avatar-size: 110px;
+$avatar-border: 4px;
+
+.dave-picture {
+    display: block;
+    border: $avatar-border solid $brand-color;
+    border-radius: ($avatar-size + $avatar-border + 1)/2;
+    height: $avatar-size;
+    width: $avatar-size;
+    margin: auto;
+
+    @include media-query($on-palm) {
+        margin-bottom: $avatar-border * 4;
+    }
+}
+
+.flexi-home {
+    display: flex;
+    justify-content: space-between;
+    margin: 2px 0px 10px;
+
+    @include media-query($on-palm) {
+        display: block;
+        margin: 2px auto 4px;
+    }
+}
+
+.col {
+    margin: auto;
+}
+
+.col-1 {
+    flex: 1;
+}
+
+.col-2 {
+    flex: 2;
+}
+
+.col-3 {
+    flex: 3;
+}

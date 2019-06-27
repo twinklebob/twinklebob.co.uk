@@ -16,8 +16,8 @@
 title: TwinkleBob Solutions
 email: info@twinklebob.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
-I help you save time, so you can grow your business
-You can always find ways to earn more money, but you'll never get your time back. Together, we can use technology to help you save time by organising, rationalising, simplifying, streamlining and automating.
+  I help you save time, so you can grow your business
+  You can always find ways to earn more money, but you'll never get your time back. Together, we can use technology to help you save time by organising, rationalising, simplifying, streamlining and automating.
 favicon: # TODO: Needs icon(s)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -56,7 +56,7 @@ str_show_all_posts: Show all posts
 #
 # Pagination.
 #
-paginate: 5
+paginate: 4
 paginate_path: page/:num
 
 # Exclude from processing.

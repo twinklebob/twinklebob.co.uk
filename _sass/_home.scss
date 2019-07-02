@@ -9,34 +9,39 @@ $avatar-border: 4px;
     width: $avatar-size;
     margin: auto;
 
-    @include media-query($on-palm) {
-        margin-bottom: $avatar-border * 4;
-    }
+    // @include media-query($on-palm) {
+    //     margin-bottom: $avatar-border * 4;
+    // }
 }
 
 .flexi-home {
     display: flex;
-    justify-content: space-between;
+    flex-flow: row wrap;
+
+    justify-content: space-around;
+    align-content: space-around;
+    align-items: center;
+
     margin: 2px 0px 10px;
 
-    @include media-query($on-palm) {
-        display: block;
-        margin: 2px auto 4px;
-    }
+    // @include media-query($on-palm) {
+    //     display: block;
+    //     margin: 2px auto 4px;
+    // }
 }
 
-.col {
-    margin: auto;
+%col {
+    margin: 10px auto;
 }
 
-.col-1 {
+.avatar {
+    @extend %col;
     flex: 1;
+    min-width: $avatar-size + (2 * $avatar-border) + 10;
 }
 
-.col-2 {
-    flex: 2;
-}
-
-.col-3 {
+.home-text {
+    @extend %col;
     flex: 3;
+    min-width: 400px;
 }

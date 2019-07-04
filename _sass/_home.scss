@@ -40,8 +40,21 @@ $avatar-border: 4px;
     min-width: $avatar-size + (2 * $avatar-border) + 10;
 }
 
+.eye-catch {
+    display: block;
+    // border: 1px solid darken($brand-color, 15%);
+    float: left;
+    max-width: $content-width / 4;
+    margin: 10px;
+}
+
 .home-text {
     @extend %col;
     flex: 3;
     min-width: 400px;
+}
+
+.image-centre {
+    display: block;
+    margin: auto;
 }

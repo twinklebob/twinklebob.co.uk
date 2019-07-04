@@ -32,12 +32,16 @@ plugins:
   - jemoji
   - jekyll-sitemap
 
+
+minima:
+  date_format: "%A, %e %B %Y"
 #
 # Prettify url.
 #
 permalink: pretty
 
 show_excerpts: true
+excerpt_separator: <!--more-->
 
 recent_posts_num: 10
 

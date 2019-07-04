@@ -43,9 +43,21 @@ $avatar-border: 4px;
 .eye-catch {
     display: block;
     // border: 1px solid darken($brand-color, 15%);
+    margin: 10px;
+}
+
+.post-list .eye-catch {
     float: left;
     max-width: $content-width / 4;
-    margin: 10px;
+}
+
+.post-content > .eye-catch {
+    margin: 2px auto 10px;
+    max-width: 590px;
+    
+    @include media-query($on-palm) {
+        max-width: 430px;
+    }
 }
 
 .home-text {

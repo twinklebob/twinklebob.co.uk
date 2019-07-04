@@ -22,7 +22,9 @@ layout: default
           {%- if post.eye_catch -%}
             <img src="{{ post.eye_catch }}" class="eye-catch">
           {%- endif -%}
-          {{ post.excerpt }}
+          <div class="excerpt">
+            {{ post.excerpt }}
+          </div>
         {%- endif -%}
       </li>
       {%- endfor -%}

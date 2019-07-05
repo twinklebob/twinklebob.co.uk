@@ -33,6 +33,8 @@ plugins:
   - jekyll-sitemap
 
 
+include: ["_pages"]
+
 minima:
   date_format: "%A, %e %B %Y"
 #

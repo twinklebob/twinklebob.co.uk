@@ -15,14 +15,10 @@ tags:
 meta:
   _edit_last: '1'
   dsq_thread_id: '1173515560'
-author:
-  login: admin
-  email: david.lumm@twinklebob.co.uk
-  display_name: David
-  first_name: David
-  last_name: Lumm
 permalink: "/new-website-live/"
 ---
-<p>NEWSFLASH: The new website is finally here!</p>
-<p>It's nothing flashy, but it's simple and clean and mobile device friendly.</p>
-<p>Expect more improvements in the coming weeks.</p>
+NEWSFLASH: The new website is finally here!
+
+It's nothing flashy, but it's simple and clean and mobile device friendly.
+
+Expect more improvements in the coming weeks.

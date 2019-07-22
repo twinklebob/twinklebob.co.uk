@@ -32,15 +32,15 @@ So now we have 5 inbound numbers (6 including the landline): a US number from [I
 
 I can’t see us needing any more than that. I've already made use of the US number to be contacted by a company based out there, I probably won’t make much use of the inbound number issued by VoipCheap, now that I have a local number.
 
-This raft of inbound numbers has allowed me to do clever inbound routing. For instance <a href="https://ifttt.com/">IFTTT.com</a> (<a href="http://twinklebob.co.uk/tag/ifttt-com/">I’ve written about IFTTT before</a>) only support US telephone numbers (a big reason for me getting a US number in the first place), so I can have a rule in the phone system that means any calls from IFTTT's number are always forwarded to my handset(s).
+This raft of inbound numbers has allowed me to do clever inbound routing. For instance [IFTTT.com](https://ifttt.com/) (<a href="http://twinklebob.co.uk/tag/ifttt-com/">I’ve written about IFTTT before</a>) only support US telephone numbers (a big reason for me getting a US number in the first place), so I can have a rule in the phone system that means any calls from IFTTT's number are always forwarded to my handset(s).
 
 It would also be possible to have a central number that rings all devices and a unique inbound number for each device, like you might have in a workplace. For our needs, though, the numbers generally map to all available handsets.
 
 As well as the numbers connecting us to the plain old telephone system (POTS), the two VoIP providers also give me two incoming connections from other SIP compatible devices. These can be routed in the same sort of ways.
 
-So that’s incoming calls, what about outgoing? The majority of our calls will be going out over VoipCheap's service. If you top up every 90 days you get what they call <a href="http://www.voipcheap.co.uk/calling_rates/">FreeDays</a>, which allows you to make up to 300 minutes of calls per week to several destinations, including UK standard landlines (01, 02 and 03 numbers) and US landlines and mobiles. UK mobiles aren't free, but at 2.3p/min (at time of printing) this is cheaper than our current landline provider.
+So that’s incoming calls, what about outgoing? The majority of our calls will be going out over VoipCheap's service. If you top up every 90 days you get what they call [FreeDays](http://www.voipcheap.co.uk/calling_rates/), which allows you to make up to 300 minutes of calls per week to several destinations, including UK standard landlines (01, 02 and 03 numbers) and US landlines and mobiles. UK mobiles aren't free, but at 2.3p/min (at time of printing) this is cheaper than our current landline provider.
 
-The majority of calls will be going out over this service, but IPKall offer a service to <a href="http://www.ipkall.com/tollfree.htm">connect US “toll-free” numbers free of charge</a>, so I've also made use of that. It’s fascinating to ring a US free phone number and for it to read my US number back to me as if I was actually in the country!
+The majority of calls will be going out over this service, but IPKall offer a service to [connect US “toll-free” numbers free of charge](http://www.ipkall.com/tollfree.htm), so I've also made use of that. It’s fascinating to ring a US free phone number and for it to read my US number back to me as if I was actually in the country!
 
 One thing that could be easily overlooked is emergency calls, i.e. 999, but these will need to go out over our land-line as much as possible. If that’s not possible Voipfone offer emergency registration, which means that if we ring using that line our address will be discovered from the telephone number.
 

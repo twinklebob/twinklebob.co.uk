@@ -15,12 +15,6 @@ tags:
 - Evernote
 meta:
   _edit_last: '1'
-author:
-  login: admin
-  email: david.lumm@twinklebob.co.uk
-  display_name: David
-  first_name: David
-  last_name: Lumm
 # permalink: "/another-way-i-can-help-you-get-organised/"
 eye_catch: /assets/pexels-photo-48727-1024x576.jpeg
 ---

@@ -23,7 +23,13 @@ layout: default
             <img src="{{ post.eye_catch }}" class="eye-catch">
           {%- endif -%}
           <div class="excerpt">
+            {% assign size = post.content | split: site.excerpt_separator | size %}
+            {% if size > 1 %}
             {{ post.excerpt }}
+            <a class="btn" href="{{ post.url | prepend: site.baseurl }}">{{ site.str_read_more }}</a>
+            {% else %}
+            {{ post.content }}
+            {% endif %}
           </div>
         {%- endif -%}
       </li>

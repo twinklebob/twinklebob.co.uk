@@ -50,6 +50,7 @@ $avatar-border: 4px;
     float: left;
     max-width: $content-width / 4;
     border: 1px solid lighten($color: $brand-color, $amount: 10%);
+    box-shadow: 0px 0px 6px 1px $grey-color;
 }
 
 .excerpt {
@@ -92,6 +93,7 @@ $avatar-border: 4px;
     padding: 6px;
     border: 1px solid darken($brand-color, 10%);
     border-radius: 5px;
+    box-shadow: 2px 2px 5px 0px $grey-color;
     
     &.disabled {
         color: $grey-color;

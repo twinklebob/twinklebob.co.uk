@@ -16,7 +16,7 @@
 title: TwinkleBob Solutions
 email: info@twinklebob.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Using our technical expertise, we help you to organise, simplify, streamline and automate you code, your projects and your business.
+  Helping you to organise, simplify, streamline and automate your code, your projects and your business.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  twinklebob

@@ -13,9 +13,11 @@ permalink: "/about/"
 
 TwinkleBob Solutions Ltd started trading in March 2016, but that isn't where the story starts. Founder David Lumm started with a small-scale web development hobby before spending the majority of his working life as a software developer, including some time spent doing automation projects and integrating different systems (getting them to talk to each other to achieve more automatically, with less human input), enjoying both the programming and helping businesses to be more efficient.
 
-David was fortunate to be born at a time that allowed him to ride the waves of the home computer explosion, including the early days of the internet at home. It was easy to buy into the vision of the future presented by programmes like The Jetsons and Star Trek; sometimes it can be a little disappointing to see how far we’ve managed (or not managed) to come since then!
+David was fortunate to be born at a time that allowed him to ride the waves of the home computer explosion, including the early days of the internet at home. It was easy to buy into the vision of the future presented by programmes like The Jetsons and Star Trek; sometimes it can be a little disappointing to see how far we’ve managed to come (or not) since then!
 
-Small business owners tend to be passionate specialists. They’ve gone into business because they are good at what they do and enjoy doing it. However running a business involves more than the bits that we enjoy. Things can get worse when we’re spending most of our effort doing those tasks instead of the ones that we enjoy and earn us money. Small businesses need to work together, sharing expertise and focusing on our specialities whilst others focus on theirs.
+Whether it's a coding problem or a business problem, we like to take a holistic approach: taking in the big picture and working a project through the whole process from initial discussions of the problem with users and stakeholders, planning, doing, testing, reworking (when necessary) and releasing.
+
+In the years that we have been trading we have worked with a variety of stacks and different kinds of teams: Everything from small web design agencies to multinational corporations. We mostly work with PHP and JavaScript, but we've also successfully built or maintained things in C#, VB.net, Python, Ruby, Java and ActionScript to name a few.
 
 _TwinkleBob Solutions Ltd is a company registered in England with company number 10059035. Its registered office is The Old School, The Stennack, St Ives, Cornwall, TR26 1QU._
 

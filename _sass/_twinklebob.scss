@@ -14,22 +14,6 @@ $avatar-border: 4px;
     // }
 }
 
-.flexi-home {
-    display: flex;
-    flex-flow: row wrap;
-
-    justify-content: space-around;
-    align-content: space-around;
-    align-items: center;
-
-    margin: 2px 0px 10px;
-
-    // @include media-query($on-palm) {
-    //     display: block;
-    //     margin: 2px auto 4px;
-    // }
-}
-
 %col {
     margin: 10px auto;
 }
@@ -68,12 +52,6 @@ $avatar-border: 4px;
     @include media-query($on-palm) {
         max-width: 430px;
     }
-}
-
-.home-text {
-    @extend %col;
-    flex: 3;
-    min-width: 400px;
 }
 
 .image-centre {

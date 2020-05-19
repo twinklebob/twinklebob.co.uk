@@ -14,6 +14,8 @@ Douglas Adams, author of the Hitchhikers Guide to the Galaxy series, once wrote 
 
 This is a problem for big businesses and for small businesses, however the difference is that the large companies have larger budgets and people whose job it is to think about these things, smaller companies rarely have such luxury.
 
+<!--more-->
+
 It’s possible in a few companies to get by with very little technology, but for the rest there are decisions to be made, equipment to be bought and processes to be laid down. If you’re an expert in making raw chocolate, you might not be able to solve those problems as easily.
 
 Let me tell you one example problem I helped to solve: A small factory had an ecommerce website, a production management system and a team taking telephone orders. Each process had a separate evolution, created by different teams to solve different problems, except over time they had been brought together in a perfect example of the spaghetti approach.

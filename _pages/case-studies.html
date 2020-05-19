@@ -1,0 +1,45 @@
+---
+layout: page
+title: Case Studies
+type: page
+author: David Lumm
+email: david.lumm@twinklebob.co.uk
+display_name: David
+first_name: David
+last_name: Lumm
+permalink: "/case-studies/"
+---
+
+<div>
+    {% if site.categories['case-study'] %}
+    <ul class="post-list">
+        {% for post in site.categories['case-study'] %}
+        <li>
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+            <h3>
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                    {{ post.title | escape }}
+                </a>
+            </h3>
+            {%- if site.show_excerpts -%}
+            {%- if post.eye_catch -%}
+            <img src="{{ post.eye_catch }}" class="eye-catch">
+            {%- endif -%}
+            <div class="excerpt">
+                {% assign size = post.content | split: site.excerpt_separator | size %}
+                {% if size > 1 %}
+                {{ post.excerpt }}
+                <a class="btn right" href="{{ post.url | prepend: site.baseurl }}">{{ site.str_read_more }}</a>
+                {% else %}
+                {{ post.content }}
+                {% endif %}
+            </div>
+            {%- endif -%}
+        </li>
+        {% endfor %}
+    </ul>
+    {% else %}
+    No posts here, yet.
+    {% endif %}
+</div>

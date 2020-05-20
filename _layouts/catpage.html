@@ -1,22 +1,24 @@
 ---
 layout: page
-title: Case Studies
-type: page
-author: David Lumm
-email: david.lumm@twinklebob.co.uk
-display_name: David
-first_name: David
-last_name: Lumm
-permalink: "/case-studies/"
 ---
 
 <div>
-    {% if site.categories['case-study'] %}
+    {{ content }}
+
+    {% if site.categories[page.category] %}
     <ul class="post-list">
-        {% for post in site.categories['case-study'] %}
+        {% for post in site.categories[page.category] %}
         <li>
             {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
             <span class="post-meta">{{ post.date | date: date_format }}</span>
+            <ul class="tags">
+                {%- assign tags_num = post.tags | size -%}
+                {%- for tag in post.tags -%}
+                {%- if tag != 'Case Study' -%}
+                <li>{{ tag }}</li>
+                {%- endif -%}
+                {%- endfor -%}
+            </ul>
             <h3>
                 <a class="post-link" href="{{ post.url | relative_url }}">
                     {{ post.title | escape }}

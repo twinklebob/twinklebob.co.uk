@@ -15,7 +15,7 @@ tags:
 meta:
   _edit_last: '1'
 permalink: "/big-announcement/"
-eye_catch: /assets/picjumbo.com_HNCK8991-1024x683.jpg
+image: /assets/picjumbo.com_HNCK8991-1024x683.jpg
 ---
 I’m incredibly pleased to announce that as of 12th March 2016 TwinkleBob Solutions is officially a registered company and that I, [David Lumm](http://twinklebob.co.uk/about/about-david), am it’s Director!
 

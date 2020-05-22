@@ -2,12 +2,7 @@
 layout: page
 title: About TwinkleBob
 type: page
-author:
-  login: admin
-  email: david.lumm@twinklebob.co.uk
-  display_name: David
-  first_name: David
-  last_name: Lumm
+author: davidlumm
 permalink: "/about/"
 ---
 

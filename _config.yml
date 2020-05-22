@@ -18,7 +18,7 @@ email: info@twinklebob.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Helping you to organise, simplify, streamline and automate your code, your projects and your business.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://twinklebob.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  twinklebob
 
 # Build settings
@@ -62,6 +62,11 @@ str_show_all_posts: Show all posts
 #
 paginate: 4
 paginate_path: page/:num
+
+#
+# Sharing
+#
+logo: /assets/TB-wide.png
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -18,7 +18,7 @@ tags:
 meta:
   _edit_last: '1'
 permalink: "/choosing-the-right-technology/"
-eye_catch: /assets/e5a1a97af60943db5ff66d63192b3083-1-1024x768.jpg
+image: /assets/e5a1a97af60943db5ff66d63192b3083-1-1024x768.jpg
 ---
 Sometimes it can be hard to choose the right technology for the job, there’s a lot of factors at play there. You might need to take into consideration what technology is already available; where your new hardware or software needs to fit with the existing; whether this is a hardware change, a software change or both; how much money you have to spend; whether you really need a change or not. The list goes on.
 

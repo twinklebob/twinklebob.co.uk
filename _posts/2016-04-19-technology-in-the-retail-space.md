@@ -21,7 +21,7 @@ tags:
 meta:
   _edit_last: '1'
 permalink: "/technology-in-the-retail-space/"
-eye_catch: /assets/store-shop-storefront-business-retail-shopping.png
+image: /assets/store-shop-storefront-business-retail-shopping.png
 ---
 I recently read an article discussing how technology is being used to help businesses in the retail space deliver a more localised service, emulating the level of service usually only offered by small local businesses. The article (which can be [seen on the Retail Dive website](http://www.retaildive.com/news/what-is-hyper-localization-and-what-does-it-mean-for-retailers/415092/) used the term “hyper-localization” (sic) to refer to this localised focus, comparing it to the personalised service often received in the old open all hours style general stores.
 

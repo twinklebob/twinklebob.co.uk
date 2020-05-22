@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Automating Production
+description: Or how we took a factory from a complex mixture of software and human processes into a the nirvana of full automation.
+layout: post
 type: post
 published: true
 category: case-study
@@ -10,7 +11,8 @@ tags:
 - Streamline
 - PHP
 - C#
-eye_catch: /assets/pxfuel-qsowr-1024x768.jpg
+image: /assets/pxfuel-qsowr-1024x768.jpg
+author: davidlumm
 ---
 
 It’s possible in a few companies to get by with very little technology, but for the rest there are decisions to be made, equipment to be bought and processes to be laid down. If you’re an expert in anything other than technology, you might not be able to solve those problems easily.

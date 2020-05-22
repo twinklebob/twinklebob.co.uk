@@ -20,7 +20,7 @@ meta:
   _thumbnail_id: '122'
   dsq_thread_id: '3026700072'
 permalink: "/more-home-automation-examples/"
-eye_catch: /assets/4300623468_a17044355b_z-300x200.jpg
+image: /assets/4300623468_a17044355b_z-300x200.jpg
 ---
 So this is continuing the series looking at <a href="http://twinklebob.co.uk/tag/home-automation/">Home Automation</a> solutions, both in terms of the technology that’s available and what it can do for you.
 

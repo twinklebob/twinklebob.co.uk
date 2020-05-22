@@ -18,7 +18,7 @@ tags:
 meta:
   _edit_last: '1'
 permalink: "/almost-paper-free-part-2/"
-eye_catch: /assets/4277750232_a80e9b6a02_z.jpg
+image: /assets/4277750232_a80e9b6a02_z.jpg
 ---
 It’s funny the way life is sometimes, isn’t it? You may remember that alongside projects for clients I’m also attempting to [reduce the huge piles of paper]({{ site.baseurl }}{% post_url 2016-04-07-towards-paper-free-part-1 %}) threatening to swallow my office. It’s been a couple of months since I first let you know about my plans, so I thought it was about time I updated you.
 

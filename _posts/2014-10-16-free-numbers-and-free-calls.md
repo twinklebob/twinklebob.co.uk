@@ -20,7 +20,7 @@ meta:
   _edit_last: '1'
   dsq_thread_id: '3122304343'
 permalink: "/free-numbers-and-free-calls/"
-eye_catch: /assets/can-communication-conversation-362-1024x682.jpg
+image: /assets/can-communication-conversation-362-1024x682.jpg
 ---
 _This is the next instalment of a series of [blog posts](http://twinklebob.co.uk/tag/asterisk/) following the ongoing installation of a PBX (a Private Branch eXchange, literally a private telephone switchboard) in my house._
 

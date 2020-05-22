@@ -16,7 +16,7 @@ tags:
 meta:
   _edit_last: '1'
 # permalink: "/another-way-i-can-help-you-get-organised/"
-eye_catch: /assets/pexels-photo-48727-1024x576.jpeg
+image: /assets/pexels-photo-48727-1024x576.jpeg
 ---
 Towards the back end of last year, I was offered the opportunity to qualify as an Evernote Certified Consultant, which enables me to work with Evernote users (particularly business users) with a stamp of approval from [Evernote](https://evernote.com/upgrade/?tier=premium&amp;origin=ebcc&amp;offer=cc_dlumm).
 

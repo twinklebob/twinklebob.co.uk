@@ -18,7 +18,7 @@ tags:
 meta:
   _edit_last: '1'
 permalink: "/is-technology-our-helper/"
-eye_catch: /assets/3949834600_0a7487f402_z.jpg
+image: /assets/3949834600_0a7487f402_z.jpg
 ---
 It’s fascinating to look back on predictions made and to see how close they were, particularly when those predictions relate to technology. When we look at the predictions made in the 50s, we see a hugely optimistic view of how technology was going to advance at a phenomenal rate and help us all to spend less time working and enjoy our lives more and more. When we look at any utopian views of the future we often see signs of a post-scarcity economy, one where nobody has to work or worry about money (for example Rick Webb wrote a great article about [how this works in Star Trek](https://medium.com/@RickWebb/the-economics-of-star-trek-29bab88d50#.dl2yinprd)). Even as recently as the 1980s it was believed that by now we would have flying cars to transport us and robots to help improve our lives. So what’s gone wrong? I’ll answer that with another question: _has_ something gone wrong?
 

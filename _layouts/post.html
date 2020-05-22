@@ -11,13 +11,16 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+        {%- if site.data.authors[page.author] -%}
+        {%- assign author = site.data.authors[page.author] -%}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ author.fullname }}</span></span>
+        {%- endif -%}
       {%- endif -%}</p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    {%- if page.eye_catch -%}
-      <img src="{{ page.eye_catch }}" class="eye-catch">
+    {%- if page.image -%}
+      <img src="{{ page.image }}" class="eye-catch">
     {%- endif -%}
     {{ content }}
   </div>

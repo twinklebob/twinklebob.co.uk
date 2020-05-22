@@ -18,7 +18,7 @@ tags:
 meta:
   _edit_last: '1'
 permalink: "/towards-paper-free-part-1/"
-eye_catch: /assets/16659686228_31e170612b_z.jpg
+image: /assets/16659686228_31e170612b_z.jpg
 ---
 As I think I've probably mentioned before, I like to try and [use technology to simplify]({{ site.baseurl }}{% post_url 2016-03-23-choosing-the-right-technology %}) my life. I've always got some sort of project on the go and there’s one particular task that has risen to the top of this list; I need to tackle all that paperwork that keeps piling up.
 

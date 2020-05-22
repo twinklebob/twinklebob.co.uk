@@ -28,8 +28,8 @@ layout: default
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {%- if post.eye_catch -%}
-            <img src="{{ post.eye_catch }}" class="eye-catch">
+          {%- if post.eye_catch -%}          
+          <img src="{{ post.eye_catch }}" class="eye-catch">
           {%- endif -%}
           <div class="excerpt">
             {% assign size = post.content | split: site.excerpt_separator | size %}

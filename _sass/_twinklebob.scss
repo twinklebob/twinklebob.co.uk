@@ -54,8 +54,11 @@ $avatar-border: 4px;
         transition: 500ms;
         
         &:hover {
-            max-width: $content-width / 2 + 10;
             box-shadow: 0px 0px 12px 2px $grey-color;
+            @include media-query($on-palm) {
+                max-width: $content-width / 4 + 10;
+            }
+            max-width: $content-width / 2 + 10;
         }
     }
 }

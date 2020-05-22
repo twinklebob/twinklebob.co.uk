@@ -1,7 +1,8 @@
 davidlumm:
+    firstname: David
+    surname: Lumm
+    fullname: David Lumm
     picture: /assets/david-lumm.jpg
     twitter: cyberneticdave
     email: david.lumm@twinklebob.co.uk
-    fullname: David Lumm
-    firstname: David
-    surname: Lumm
+    url: david.twinklebob.co.uk

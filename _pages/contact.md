@@ -8,7 +8,7 @@ You can get in contact with us on the phone or by e-mail.
 
 ## By Phone
 
-**0560 366 3254**
+**[0560 366 3254](tel:05603663254)**
 
 Prices vary, please check with your operator.
 

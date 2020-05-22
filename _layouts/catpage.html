@@ -26,7 +26,9 @@ layout: page
             </h3>
             {%- if site.show_excerpts -%}
             {%- if post.eye_catch -%}
-            <img src="{{ post.eye_catch }}" class="eye-catch">
+            <div class="eye-catch">
+                <img src="{{ post.eye_catch }}">
+            </div>
             {%- endif -%}
             <div class="excerpt">
                 {% assign size = post.content | split: site.excerpt_separator | size %}

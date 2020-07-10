@@ -1,5 +1,5 @@
 ---
-title: In Defense of Legacy Code
+title: In Defence of Legacy Code
 description: The scourge of the developer, the Legacy Code. Is it all as bad as they say?
 layout: post
 type: post

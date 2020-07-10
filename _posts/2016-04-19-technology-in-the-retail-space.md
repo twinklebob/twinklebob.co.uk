@@ -8,16 +8,16 @@ published: true
 password: ''
 status: publish
 categories:
-- General technology
+- General-technology
 tags:
 - Automation
 - Bluetooth
-- Business Support
+- Business_Support
 - Integration
-- Internet of Things
-- Mobile Apps
+- Internet_of_Things
+- Mobile_Apps
 - Technology
-- User Experience
+- User_Experience
 meta:
   _edit_last: '1'
 permalink: "/technology-in-the-retail-space/"

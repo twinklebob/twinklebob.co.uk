@@ -8,10 +8,10 @@ published: true
 password: ''
 status: publish
 categories:
-- Company News
+- Company-News
 - Organise
 tags:
-- Business Support
+- Business_Support
 - Evernote
 meta:
   _edit_last: '1'

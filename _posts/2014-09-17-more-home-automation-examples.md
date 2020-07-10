@@ -8,13 +8,13 @@ published: true
 password: ''
 status: publish
 categories:
-- Home Automation
+- Home-Automation
 tags:
 - Automation
-- Home Automation
+- Home_Automation
 - NinjaBlocks
 - SmartThings
-- Vera Home Automation
+- Vera_Home_Automation
 meta:
   _edit_last: '1'
   _thumbnail_id: '122'

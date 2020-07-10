@@ -8,13 +8,13 @@ published: true
 password: ''
 status: publish
 categories:
-- Site Information
-- Web Development
+- Site-Information
+- Web-Development
 tags:
 - Design
-- Site News
-- User Experience
-- Web Development
+- Site_News
+- User_Experience
+- Web_Development
 meta:
   _wp_old_slug: ''
   _edit_last: '1'

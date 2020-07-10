@@ -9,12 +9,12 @@ password: ''
 status: publish
 categories:
 - Collabtive
-- Web Development
+- Web-Development
 tags:
 - Collabtive
-- Open Source
-- Project Management
-- Web Development
+- Open_Source
+- Project_Management
+- Web_Development
 meta:
   _edit_last: '1'
   dsq_thread_id: '297673194'

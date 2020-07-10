@@ -8,13 +8,13 @@ published: true
 password: ''
 status: publish
 categories:
-- General technology
+- General-technology
 tags:
 - Automation
 - Integration
 - Programming
-- Project Management
-- Web Development
+- Project_Management
+- Web_Development
 meta:
   _edit_last: '1'
 permalink: "/choosing-the-right-technology/"

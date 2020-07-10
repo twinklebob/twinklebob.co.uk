@@ -11,8 +11,8 @@ categories:
 - Collabtive
 tags:
 - Collabtive
-- Open Source
-- Project Management
+- Open_Source
+- Project_Management
 meta:
   _edit_last: '1'
   dsq_thread_id: '1137714777'

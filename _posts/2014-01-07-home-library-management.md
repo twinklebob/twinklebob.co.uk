@@ -8,14 +8,14 @@ published: true
 password: ''
 status: publish
 categories:
-- Mobile Apps
+- Mobile-Apps
 - Projects
 tags:
 - Lyverva
-- Mobile Apps
+- Mobile_Apps
 - PHP
 - Projects
-- Web Development
+- Web_Development
 meta:
   dsq_thread_id: '2098017250'
   _edit_last: '1'

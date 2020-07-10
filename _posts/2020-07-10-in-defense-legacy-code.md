@@ -4,11 +4,11 @@ description: The scourge of the developer, the Legacy Code. Is it all as bad as 
 layout: post
 type: post
 published: true
-category: 'Web Development'
+category: Web-Development
 tags:
 - PHP
 - Programming
-- Web Development
+- Web_Development
 image: https://i.imgflip.com/43zb7i.jpg
 author: davidlumm
 ---

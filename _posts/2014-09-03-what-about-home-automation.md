@@ -8,11 +8,11 @@ published: true
 password: ''
 status: publish
 categories:
-- Home Automation
+- Home-Automation
 tags:
-- Home Automation
+- Home_Automation
 - IFTTT.com
-- Internet of Things
+- Internet_of_Things
 - NinjaBlocks
 - SmartThings
 meta:

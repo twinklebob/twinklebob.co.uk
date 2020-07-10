@@ -8,9 +8,9 @@ published: true
 password: ''
 status: publish
 categories:
-- Site Information
+- Site-Information
 tags:
-- Site News
+- Site_News
 - TwinkleBob
 meta:
   _edit_last: '1'

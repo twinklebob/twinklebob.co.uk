@@ -8,11 +8,11 @@ published: true
 password: ''
 status: publish
 categories:
-- Web Development
+- Web-Development
 tags:
 - Design
-- User Experience
-- Web Development
+- User_Experience
+- Web_Development
 meta:
   _edit_last: '1'
   dsq_thread_id: '332775741'

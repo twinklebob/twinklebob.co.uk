@@ -8,13 +8,13 @@ published: true
 password: ''
 status: publish
 categories:
-- General technology
+- General-technology
 tags:
 - Automation
-- Home Automation
+- Home_Automation
 - Integration
 - Programming
-- User Experience
+- User_Experience
 meta:
   _edit_last: '1'
 permalink: "/is-technology-our-helper/"

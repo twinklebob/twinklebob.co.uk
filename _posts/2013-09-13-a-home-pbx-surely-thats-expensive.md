@@ -14,7 +14,7 @@ tags:
 - Asterisk
 - FreePBX
 - Projects
-- Raspberry Pi
+- Raspberry_Pi
 - SIP
 - Telephony
 - VoIP

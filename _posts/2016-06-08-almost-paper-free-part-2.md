@@ -11,10 +11,10 @@ categories:
 - Projects
 tags:
 - Automation
-- Business Support
+- Business_Support
 - Programming
 - Projects
-- Raspberry Pi
+- Raspberry_Pi
 meta:
   _edit_last: '1'
 permalink: "/almost-paper-free-part-2/"

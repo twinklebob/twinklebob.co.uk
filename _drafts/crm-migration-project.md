@@ -1,5 +1,5 @@
 ---
-title: Out with old and in with the new
+title: Smooth Customer Service
 description: Or how we migrated from a mutant CRM to something fit for purpose
 layout: post
 type: post
@@ -10,8 +10,8 @@ tags:
 - CRM
 - Oracle_Service_Cloud
 - PHP
-image: /assets/pxfuel-qsowr-1024x768.jpg
-author: davidlumm
+image: //visualhunt.com/photos/15/kat_042815-7.jpg?s=m
+author: mattshewbridge
 ---
 
 When a CRM system perfectly matches a company's business model, it becomes a frictionless interface between the business and its customers. When it doesn't, everything is expensive, time-consuming and frustrating. That's why TwinkleBob Solutions were commissioned to perform a CRM migration for a multinational company.
@@ -24,4 +24,4 @@ We started with Oracle Service Cloud because the core functionality was just wha
 
 And the new solution not only met, but exceeded all the requirements; the time to answer each support ticket fell dramatically and has stayed low, even under increasing load. Ah, the beauty of a bespoke system!
 
-Photo credit: [Source](url)
+Photo credit: [Knoxville Area Transit](https://visualhunt.co/a6/facf4f31) on [Visual hunt](https://visualhunt.com/re8/de578785) / [CC BY-SA](http://creativecommons.org/licenses/by-sa/2.0/)

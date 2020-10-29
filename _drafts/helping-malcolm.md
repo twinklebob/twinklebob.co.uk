@@ -6,9 +6,11 @@ type: post
 published: true
 category: case-study
 tags:
-- Template
-image: /assets/pxfuel-qsowr-1024x768.jpg
-author: davidlumm
+- Case_Study
+- Organise
+- Project_Management
+image: /assets/post-images/2020/pexels-andrea-piacquadio-3778964.jpg
+author: mattshewbridge
 ---
 
 Every small company has a Malcolm. You know Malcolm! Malc! The guy who understands how everything works and where everything is. He knows all the software systems inside out (partly because he built a lot of them). He’s familiar with all of their foibles, and gives them the proverbial tap when they don’t work properly. Malcolm is indispensable! And that can be a problem.
@@ -23,4 +25,4 @@ That’s where TwinkleBob came in. We investigated the entire system so that we 
 
 It was a huge piece of work but it gave everyone some much needed peace of mind. Our client was now audit-ready, and Malcolm could take a holiday!
 
-Photo credit: [Source](url)
+Photo by [Andrea Piacquadio](https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/man-in-black-suit-covering-his-face-with-two-hands-3778964/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)

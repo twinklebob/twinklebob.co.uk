@@ -14,8 +14,8 @@ layout: page
             <ul class="tags">
                 {%- assign tags_num = post.tags | size -%}
                 {%- for tag in post.tags -%}
-                {%- if tag != 'Case Study' -%}
-                <li>{{ tag }}</li>
+                {%- if tag != 'Case_Study' -%}
+                <li>{{ tag | replace: "_", " "  }}</li>
                 {%- endif -%}
                 {%- endfor -%}
             </ul>

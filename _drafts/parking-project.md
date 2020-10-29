@@ -6,9 +6,12 @@ type: post
 published: true
 category: case-study
 tags:
-- Case Study
-image: /assets/pxfuel-qsowr-1024x768.jpg
-author: davidlumm
+- Case_Study
+- Web_Development
+- Streamline
+- PHP
+image: https://visualhunt.com/photos/2/car-park-night-parking-garage-entry-exit.jpg?s=m
+author: mattshewbridge
 ---
 
 There comes a time in every SMEs life when you come across an opportunity so big and lucrative that you just have to grab it with both hands. It's exactly the kind of deal you were dreaming of, but never quite had time to prepare for. It's the bridge you would cross when you came to it, and now you've come to it. And it's all got a bit panicky.
@@ -25,4 +28,4 @@ We needed extend the architecture and build out the back end. This then needed t
 
 The completed system was exactly what the local authority needed. The best part? This was to become only the first of such large contracts for our clients; other customers got FOMO and decided they needed something similar!
 
-Photo credit: [Source](url)
+Photo on [Visualhunt.com](https://visualhunt.com/re8/d199c256)

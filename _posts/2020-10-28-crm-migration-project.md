@@ -6,7 +6,7 @@ type: post
 published: true
 category: case-study
 tags:
-- Case Study
+- Case_Study
 - CRM
 - Oracle_Service_Cloud
 - PHP

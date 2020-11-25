@@ -1,9 +1,8 @@
 ---
 title: Seize The Day
-description: Or how we got a product ready for key contract
+description: Or how we got a product ready for a life-changing contract
 layout: post
 type: post
-published: true
 category: case-study
 tags:
 - Case_Study
